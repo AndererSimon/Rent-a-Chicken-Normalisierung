@@ -1,0 +1,22 @@
+﻿NutzerID;Nutzer;AboTyp;Preis;FilmID;Filmtitel;Dauer;FilmBewertung;Watchtime
+1;Pauline Poulet, Pauline.Poulet@fakemail.de;Premium;12.99;1;Chicken Run - Hennen rennen;84;7.1;83
+2;Patricio Pollo, Patricio.Pollo@fakemail.de;Basic;7.99;2;Himmel und Huhn;81;5.7;40
+3;Hildegard Huhn, Hildegard.Huhn@fakemail.de;Basic;7.99;3;Chicken People;83;7;83
+4;Hahna Meier, Hahna.Meier@fakemail.de;Premium;12.99;4;Poultrygeist: Night of the Chicken Dead;NaN;NaN;1205
+5;Jacky Chickenwing, Jacky.Chickenwing@fakemail.de;Basic;7.99;5;Super Size Me 2: Holy Chicken!;93;NaN;90
+1;Pauline Poulet, Pauline.Poulet@fakemail.de;Premium;12.99;6;Fried Chicken Day;90;9.7;88
+3;Hildegard Huhn, Hildegard.Huhn@fakemail.de;Basic;7.99;2;Himmel und Huhn;81;5.7;81
+1;Pauline Poulet, Pauline.Poulet@fakemail.de;Premium;12.99;2;Himmel und Huhn;81;5.7;80
+4;Hahna Meier, Hahna.Meier@fakemail.de;Premium;12.99;3;Chicken People;83;7;50
+5;Jacky Chickenwing, Jacky.Chickenwing@fakemail.de;Basic;7.99;1;Chicken Run - Hennen rennen;84;7.1;82
+5;Jacky Chickenwing, Jacky.Chickenwing@fakemail.de;Basic;7.99;6;Fried Chicken Day;90;9.7;85
+2;Patricio Pollo, Patricio.Pollo@fakemail.de;Basic;7.99;4;Poultrygeist: Night of the Chicken Dead;NaN;NaN;100
+4;Hahna Meier, Hahna.Meier@fakemail.de;Premium;12.99;6;Fried Chicken Day;90;9.7;130
+2;Patricio Pollo, Patricio.Pollo@fakemail.de;Basic;7.99;5;Super Size Me 2: Holy Chicken!;93;7.1;91
+3;Hildegard Huhn, Hildegard.Huhn@fakemail.de;Basic;7.99;1;Chicken Run - Hennen rennen;84;7.1;120
+1;Pauline Poulet, Pauline.Poulet@fakemail.de;Premium;12.99;3;Chicken People;83; 7;80
+4;Hahna Meier, Hahna.Meier@fakemail.de;Premium;12.99;1;Chicken Run - Hennen rennen;84;7.1;80
+1;Pauline Poulet, Pauline.Poulet@fakemail.de;Premium;12.99;5;Super Size Me 2: Holy Chicken!;93;NaN;90
+5;Jacky Chickenwing, Jacky.Chickenwing@fakemail.de;Basic;7.99;3;Chicken People;83;7;82
+4;Hahna Meier, Hahna.Meier@fakemail.de;Premium;12.99;2;Himmel und Huhn;81;5.7;70
+3;Hildegard Huhn, Hildegard.Huhn@fakemail.de;Basic;7.99;3;Chicken People;83;7;83
